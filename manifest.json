@@ -1,0 +1,30 @@
+{
+	"name": "Tu Zona V.I.P",
+	"short_name": "Tu Zona V.I.P",
+	"description": "Musica En Linea  24/7.",
+	"icons" : [
+		{
+			"src": "assets/192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+        },
+        {
+			"src": "assets/512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "./?mode=pwa",
+	"theme_color": "#002d87",
+	"background_color": "#002d87",
+	"orientation": "portrait",
+	"display": "fullscreen",
+	"display_override": [
+		"fullscreen"
+	],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
+}
